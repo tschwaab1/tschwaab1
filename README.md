@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Thomas
-#### Subtitle?
-![Subtitle?](BannerURL?)
 
 I started my career about 9 years ago with an internship as PHP developer at Luminea IT Solutions near Munich. After Freelance work as Web developer, I decided to study the Bachelor course 'Business Informatics' at the Free University of Bolzano, Italy. The study course is trilingual (German, English, Italian). 
 
@@ -8,7 +6,7 @@ One year ago I started developing Smart Contracts in Solidity, now I am learning
 
 Skills:  PHP / REACT NATIVE / JS / TS / HTML / CSS / JAVA / SOLIDITY / RUST
 
-- 🔭 I’m currently working on a dApp Webinterface 
+- 🔭 I’m currently working on a Webinterface for a Smart Contract
 - 🌱 I’m currently learning Rust 
 - 📫 How to reach me: info@tschwaab.net or contact form at https://www.tschwaab.net/contact
 
